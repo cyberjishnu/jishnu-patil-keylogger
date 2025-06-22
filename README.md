@@ -46,7 +46,7 @@
 1. Clone the repository:
 
 ```bash
-
+https://github.com/cyberjishnu/jishnu-patil-keylogger
 ```
 
 2. Install dependencies:
@@ -58,7 +58,7 @@ pip install customtkinter pynput
 3. Run the script:
 
 ```bash
-python keylogger_gui.py
+python keylogger.py
 ```
 
 ---
@@ -76,7 +76,17 @@ This tool was created **strictly for cybersecurity awareness and research**. Do 
 * Creating awareness about input security and anti-keylogging techniques
 
 ---
+# 📷 Screenshot
+![1 k](https://github.com/user-attachments/assets/e83138b6-aef4-4ce8-9afc-d8bae52e6a22)
+![2k](https://github.com/user-attachments/assets/5c2fd399-b95d-4d26-bd63-bd51a177a805)
+![3 k](https://github.com/user-attachments/assets/f2f8218a-b3bb-4926-824c-b8670d513000)
 
+
+
+
+
+
+# 📽 Video Demonstration
 ## 💼 Project Info
 
 **Project Task:** Internship Task 2 - Keylogger Software

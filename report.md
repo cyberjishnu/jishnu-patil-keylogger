@@ -1,9 +1,13 @@
 # 🔐 Internship Report – Keylogger Pro
 
 **Intern Name:** Jishnu Dipak Patil
+
 **Internship Title:** Cybersecurity Internship Program 2025
+
 **Project Task:** Task No. 2 – Keylogger Software
+
 **Organization:** Pinnacle Labs
+
 **Project Duration:** June 2025 – July 2025
 
 ---
